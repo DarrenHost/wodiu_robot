@@ -1,4 +1,4 @@
-# ESP32 AI 聊天机器人
+# ESP32 AI 聊天机器人 by Darren.X
 
 基于ESP32实现的AI聊天机器人项目，通过Coze API实现智能对话交互。
 
